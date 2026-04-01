@@ -1,7 +1,22 @@
 # 동양미래 데이버분석 리포트 저장소
 
-매 주차별 학습한 내용을 깃 `풀-리퀘스트`로 제출합니다. 
-1. 저장소를 포크한다.
-2. 자신의 브랜치를 만든다. (브랜치 안에 자기 이름의 마크다운 파일을 만들어 주세요)
-3. 매 주차별 폴더를 만들고 실습한 마크다운 파일과 확인 이미지를 첨부한다.
-4. 풀 리퀘스트를 전송한다. (제목은 : XX주차 000 ) 
+### 📸 과제 수행 스크린샷
+
+1. **모델 비교 분석 결과**
+![스크린샷 1](https://github.com/user-attachments/assets/d5f9ca5c-03aa-4211-bd75-5e042cbf921b)
+
+2. **데이터 생성 및 전처리 과정**
+![스크린샷 2](https://github.com/user-attachments/assets/684a03e6-ffb8-4215-b5e1-bb84b091b398)
+
+3. **VS Code 실행 화면 (1)**
+![스크린샷 3](https://github.com/user-attachments/assets/233472c3-f870-4244-bae6-be4c3cc0bac9)
+
+4. **VS Code 실행 화면 (2)**
+![스크린샷 4](https://github.com/user-attachments/assets/693a9c66-a69e-44e3-b535-88234a21bfc1)
+
+5. **모델 성능 지표 시각화**
+![스크린샷 5](https://github.com/user-attachments/assets/cdb23051-e11c-4f1a-81fc-4e53bd227a5d)
+
+6. **최종 결과 확인**
+![스크린샷 6](https://github.com/user-attachments/assets/6e6f7d61-357f-4733-91b2-d117b3a3100d)
+
