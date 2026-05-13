@@ -1,7 +1,32 @@
-# 동양미래 데이버분석 리포트 저장소
-
-매 주차별 학습한 내용을 깃 `풀-리퀘스트`로 제출합니다. 
-1. 저장소를 포크한다.
-2. 자신의 브랜치를 만든다. (브랜치 안에 자기 이름의 마크다운 파일을 만들어 주세요)
-3. 매 주차별 폴더를 만들고 실습한 마크다운 파일과 확인 이미지를 첨부한다.
-4. 풀 리퀘스트를 전송한다. (제목은 : XX주차 000 ) 
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 4 00 52" src="https://github.com/user-attachments/assets/68939e12-1e78-49e0-918b-cc3cb4ebc51e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 3 56 17" src="https://github.com/user-attachments/assets/47c187d2-f527-40ee-835c-c1aee9266a9e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 31 27" src="https://github.com/user-attachments/assets/d8e5d2ce-d859-4e9b-9718-0fe3e91dcaf1" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 31 13" src="https://github.com/user-attachments/assets/c02b2490-0401-4ac0-9354-84e6b5c25597" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 30 59" src="https://github.com/user-attachments/assets/59a9f85a-eb41-4cda-a5b4-6a3e06b74bfd" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 30 45" src="https://github.com/user-attachments/assets/71ce817a-45f6-4f89-a0a6-89fe94df05b5" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 30 02" src="https://github.com/user-attachments/assets/ca3e421d-e186-4633-9052-2fba5407b9a7" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 29 45" src="https://github.com/user-attachments/assets/5179cdba-1c4e-4efa-af4e-cc147b12e29e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 29 31" src="https://github.com/user-attachments/assets/0aeb750d-b6d1-42e0-b829-042c812d15d3" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 29 20" src="https://github.com/user-attachments/assets/a998ca82-c72d-4d26-87de-cb5ff0a3e647" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 28 56" src="https://github.com/user-attachments/assets/79cad507-8bc4-4ee6-86a2-e69cbfd7624e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 28 44" src="https://github.com/user-attachments/assets/73376937-b764-4231-aaab-a6e144d4d799" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 28 29" src="https://github.com/user-attachments/assets/a308a4f7-caa7-4025-97f1-699506a16c40" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 28 05" src="https://github.com/user-attachments/assets/b203c1cc-d077-4643-872c-ab513965f79f" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 27 55" src="https://github.com/user-attachments/assets/bc75c146-a63a-45eb-aaee-a7306a0caabe" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 27 43" src="https://github.com/user-attachments/assets/d8f9795f-7594-4b10-acb9-9a125d4a175e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 27 14" src="https://github.com/user-attachments/assets/33b37213-1dd6-4f6a-a32f-8c110d1faba6" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 26 59" src="https://github.com/user-attachments/assets/b9f33ed1-1f1a-451b-8aff-727d1adaf101" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 26 46" src="https://github.com/user-attachments/assets/a44edae1-2ca5-442f-9ffc-025130385a24" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 25 46" src="https://github.com/user-attachments/assets/f30b327a-4c3c-4dc5-8833-76b9defac10e" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 25 34" src="https://github.com/user-attachments/assets/ac38f983-50c9-418d-8664-9f7058688c01" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 25 19" src="https://github.com/user-attachments/assets/7eba1af5-0826-4c1c-ab39-25f51fb62ee7" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 25 05" src="https://github.com/user-attachments/assets/c3255c17-63f8-479b-a2bb-f1008e96861a" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 24 38" src="https://github.com/user-attachments/assets/adacc8e1-1e78-42e6-91c3-28e65aafd635" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 24 19" src="https://github.com/user-attachments/assets/73edad3b-d323-42c7-a08d-9f2c87d7f097" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 24 01" src="https://github.com/user-attachments/assets/096d14b2-d139-4fbb-8ae4-8e4a7dc85bf3" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 23 47" src="https://github.com/user-attachments/assets/4534a1b6-5dcb-496a-bfa5-6ab2242942bc" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 23 31" src="https://github.com/user-attachments/assets/23ed2d4b-8821-49a9-af53-05dcd9af7a30" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 22 56" src="https://github.com/user-attachments/assets/79e55cac-7170-479f-854e-b8946181e938" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 22 32" src="https://github.com/user-attachments/assets/11df0a34-1739-4023-9a6e-2ab9310f4833" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 22 00" src="https://github.com/user-attachments/assets/29364919-8b1a-4b03-b817-c037866f9e0a" />
+<img width="1920" height="1243" alt="스크린샷 2026-05-13 오후 2 21 36" src="https://github.com/user-attachments/assets/60d5f02b-03b0-4cc5-b595-5eb93917b711" />
